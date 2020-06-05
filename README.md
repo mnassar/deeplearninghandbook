@@ -12,6 +12,7 @@ Currently, only part I and part II are covered.
 
 # Citation 
 To cite this _handbook_, please use this bibtex entry:
+```
 @book{nassar-2020,
     title={Deep Learning Handbook},
     author={Mohamed Nassar},
@@ -19,3 +20,4 @@ To cite this _handbook_, please use this bibtex entry:
     note={\url{http://username.github.io/deeplearninghandbook}},
     year={2020}
 }
+```
