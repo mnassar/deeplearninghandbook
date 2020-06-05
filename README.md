@@ -17,7 +17,7 @@ To cite this _handbook_, please use this bibtex entry:
     title={Deep Learning Handbook},
     author={Mohamed Nassar},
     publisher={GitHub Pages},
-    note={\url{http://username.github.io/deeplearninghandbook}},
+    note={\url{http://mnassar.github.io/deeplearninghandbook}},
     year={2020}
 }
 ```
