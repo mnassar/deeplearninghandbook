@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### The Deep Learning _Handbook_ 
 
-You can use the [editor on GitHub](https://github.com/mnassar/deeplearninghandbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The [Deep Learning book](https://www.deeplearningbook.org/) by Goodfellow et al. is a rich and interesting book to introduce the booming topic of deep learning. However, many found the accompanying video lectures, slides and exercises not pedagogic enough for a fresh starter. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I used this book for the class I taught in Spring 2019/2020 at the computer science department, American University of Beirut. 
+I would like to share my experience by publishing the slides and some of the assignments on this page. The project may be developed further into a full handbook accompanying the very interesting text of Goodfellow et al. 
+Currently, only part I and part II are covered. 
 
-### Markdown
+# Slides 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Exercises 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mnassar/deeplearninghandbook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Citation 
+To cite this _handbook_, please use this bibtex entry:
+@book{nassar-2020,
+    title={Deep Learning Handbook},
+    author={Mohamed Nassar},
+    publisher={GitHub Pages},
+    note={\url{http://username.github.io/deeplearninghandbook}},
+    year={2020}
+}
