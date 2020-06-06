@@ -504,7 +504,7 @@ Notebook: [Multi-layer perceptrons](exercises/CMPS_392_Asst_5_Deep_Feed_Forward_
 ---
 
 
-## Learning XOR 
+### Learning XOR 
 
 Can linear regression solve the XOR problem? 
 
@@ -585,19 +585,19 @@ plt.plot ([0,2],[0,1],'r-')
 ![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_4_2.png)
 
 
-# Ex I 
+### Ex I 
 
-### (a) Find W, c, w, b using gradient based learning for the above network. You can use pytorch, tensorflow, keras, or others  
-### (b) have you found the same parameters as for the solution given above?
-### (c) Design neural networks to model an AND gate, OR gate, NAND gate, and make them learn the weigths 
-
-
-```
+#### (a) Find W, c, w, b using gradient based learning for the above network. You can use pytorch, tensorflow, keras, or others  
+#### (b) have you found the same parameters as for the solution given above?
+#### (c) Design neural networks to model an AND gate, OR gate, NAND gate, and make them learn the weigths 
 
 
 ```
 
-## Gradient-Based Learning 
+
+```
+
+### Gradient-Based Learning 
 
 In this exercise, we aim at learning the precision of a Conditional Gaussian distribution using a simple neural network 
 
@@ -724,12 +724,12 @@ plt.plot(t, np.log(1+np.exp(t)), 'g-')
 ![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_11_1.png)
 
 
-## Ex 2 
-### (a) Extend the previous exercise to a two dimensional input $(x_1, x_2)$ with two variances $(\sigma_1^2, \sigma_2^2)$.
+### Ex 2 
+#### (a) Extend the previous exercise to a two dimensional input $(x_1, x_2)$ with two variances $(\sigma_1^2, \sigma_2^2)$.
 
-### We assume that the input variables are not correlated.
+#### We assume that the input variables are not correlated.
 
-### (b) Similar to the exercise above (gradient-based learning), design a neural network that learns the 3 means of a gaussian mixture with 3 components 
+#### (b) Similar to the exercise above (gradient-based learning), design a neural network that learns the 3 means of a gaussian mixture with 3 components 
 
 *   Assume $x$ is one dimensional
 *   $p(y|x)$ is a gaussian mixture of three components 
@@ -741,7 +741,7 @@ plt.plot(t, np.log(1+np.exp(t)), 'g-')
 
 ```
 
-## Hidden units 
+### Hidden units 
 
 
 
@@ -790,7 +790,7 @@ plt.plot(t1, -t1, 'g-', t2, t2, 'b-')
 
 
 
-![png](CMPS_392_Asst_5_Deep_Feed_Forward_Networks_files/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_18_1.png)
+![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_18_1.png)
 
 
 ##Backprop
@@ -892,7 +892,7 @@ for i in range(1000):
     0.05475655371675065 0.04475655371675065 0.09951310743350131 0.09951310743350131 0.09999999999999998
 
 
-# The problem with Relu
+#### The problem with Relu
 
 The network with Relu can step into regions where log is not defined 
 
@@ -934,7 +934,7 @@ plt.legend()
 ![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_23_1.png)
 
 
-# Why softmax would work?
+#### Why softmax would work?
 
 We plot the loss function in terms of w and b when using the softplus activation
 
@@ -1031,7 +1031,7 @@ ax.set_title('$L_{softmax}(w,b)$  \n notice the slow descent / z-axis scale' )
 ![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_25_1.png)
 
 
-## Ex 3 
+### Ex 3 
 (a) Implement backward propagation and gradient descent for the example with softplus 
 
 (b) Implement forward propagation, backprop and gradient descent for part a) or part b) of Ex 2. (You choose).
