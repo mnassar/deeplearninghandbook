@@ -4,15 +4,14 @@ The Deep Learning _Handbook_ is a project in progress to help study the [Deep Le
 
 Goodfellow's masterpiece is a vibrant and precious resource to introduce the booming topic of deep learning. However, many found the accompanying video lectures, slides, and exercises not pedagogic enough for a fresh starter. 
 
-I used the **'dlbook'** for the class that I have taught in Spring 2019/2020 at the computer science department, American University of Beirut. 
+I used the **'dlbook'** as the primary reference for the machine learning class that I have taught in Spring 2019/2020 at the computer science department, American University of Beirut. 
 
 I would like to share my experience by publishing the slides and some of the assignments on this page. The project may be developed further into a full handbook and guide accompanying the fascinating text of Goodfellow et al. 
 
 The target audience comprises: 
-The target audience comprises: 
 * undergraduate and graduate students willing to know more about machine and deep learning, be able to read research papers or start a graduation project or a master thesis in the same context, 
-* developers and practitioners wanting to aspire a bit more math and philosophy, 
-* or mathematicians liking to have a bit more coding experience,
+* developers and practitioners aspiring to a bit more math and philosophy, 
+* or mathematicians liking to have some hands-on and a bit more coding experience,
 * any other bored or sleepless person.
 
 Currently, only part I and part II are covered. 
@@ -741,7 +740,7 @@ plt.plot(t, np.log(1+np.exp(t)), 'g-')
 #### (b) Similar to the exercise above (gradient-based learning), design a neural network that learns the 3 means of a gaussian mixture with 3 components 
 
 *   Assume $x$ is one dimensional
-*    {% raw %} $p(y|x)$  {% endraw %} is a gaussian mixture of three components 
+*    {% raw %} $ p(y\|x) $  {% endraw %} is a gaussian mixture of three components 
 *   Assume that the three components are equally likely
 *   Assume all variances are 1 
 
@@ -1424,7 +1423,7 @@ for x in advs:
 ![png](exercises/images/CMPS_392_Asst_6_Regularization_11_2.png)
 
 
-## Ex3
+## Ex 3
 ### Noise Robustness vs. dropout in the special case of linear regression
 
 (a) Show that adding Gaussian noise with **small** magnitude to the weights and biases of linear regression (the noise has mean $0$ and variance $\eta << 1$) does not affect the solution of the gradient descent. 
@@ -1499,7 +1498,7 @@ print (model.weight)
     tensor([[0.5496, 0.4467, 0.0899]], device='cuda:0', requires_grad=True)
 
 
-## Ex4
+## Ex 4
 ### L2 regularization vs. L1 regularization 
 (a) Based on the data provided below, design an experiment to show the difference between the solutions to three **logistic regression** problems:  
 
