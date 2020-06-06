@@ -1570,8 +1570,15 @@ Coming soon
 
 ## *Assignment 8*: Convolutionl Neural Networks (CNN)
 
+Coming soon 
 
 ## *Assignment 9*: Recurrent Neural Networks (RNN) 
+
+Coming soon 
+
+## Multi-choice questions: Test your deep learning knowledge
+
+[Test Your Skills](MCQ/bank.pdf)
 
 ## Contributions 
 
