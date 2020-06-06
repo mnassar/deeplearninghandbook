@@ -415,7 +415,11 @@ $$y = f(x) + \epsilon$$
 
 Consider a fixed given point $x_0$ and a sample $x_1, x_2, ..., x_m$. Assume that the values of $x_i$ in the sample are fixed in advance (nonrandom).
 
-We estimate $y_0$ as the value for $x_0$ using the formula: $\hat{y}_0 = \frac{1}{k} \sum_{l=1}^k f(x_l)$ where $x_l$ are the closest $k$ neighbors to $x_0$ (in Euclidean distance sense) 
+We estimate $y_0$ as the value for $x_0$ using the formula: 
+{% raw %}
+$$\hat{y}_0 = \frac{1}{k} \sum_{l=1}^k f(x_l)$$
+ {% endraw %}
+where $x_l$ are the closest $k$ neighbors to $x_0$ (in Euclidean distance sense) 
 
 
 The bias for K-NN regression is defined as $f(x_0) - \frac{1}{k} \sum_{l=1}^k f(x_l) $
@@ -424,7 +428,7 @@ The variance is $\frac{\sigma^2}{k}$
 
 The error is $\text{Bias}^2 + \text{Var} + \sigma^2$
 
-Plot the three curves of $Bias^2$, variance and error. Estimate the best paramameter $k$ for the following example. 
+Plot the three curves of $\text{Bias}^2$, variance and error. Estimate the best paramameter $k$ for the following example. 
 
 
 
