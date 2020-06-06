@@ -1,6 +1,16 @@
 
 <!DOCTYPE html>
 
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+  }
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
@@ -12,7 +22,6 @@
   </head>
 
   <body>
-<h1> I can change the theme template here </h1>
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
