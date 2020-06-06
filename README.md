@@ -1611,10 +1611,11 @@ If you would like to contribute to this guide/handbook, please contact the autho
 ## Citation 
 To cite this _handbook_, please use this bibtex entry:
 ```bibtex
-@book{nassar-2020,
+@book{nassar-dlh-2020,
     title={Deep Learning Handbook},
     author={Mohamed Nassar},
-    publisher={GitHub Pages},
+    publisher={\url{https://zenodo.org/}},
+    doi={10.5281/zenodo.3881558},
     note={\url{http://mnassar.github.io/deeplearninghandbook}},
     year={2020}
 }
