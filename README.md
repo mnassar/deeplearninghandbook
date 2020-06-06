@@ -1047,6 +1047,7 @@ ax.set_title('$L_{softmax}(w,b)$  \n notice the slow descent / z-axis scale' )
 
 ## *Assignment 6*: Regularization
 
+Notebook: [Regularization](exercises/CMPS_392_Asst_6_Regularization.ipynb)
 
 ---
 
@@ -1489,7 +1490,7 @@ print (model.weight)
     tensor([[0.5496, 0.4467, 0.0899]], device='cuda:0', requires_grad=True)
 
 
-## Ex3 
+## Ex4
 ### L2 regularization vs. L1 regularization 
 (a) Based on the data provided below, design an experiment to show the difference between the solutions to three **logistic regression** problems:  
 
