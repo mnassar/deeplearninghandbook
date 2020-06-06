@@ -1480,7 +1480,7 @@ model.train()
 print (model.bias)
 print (model.weight)
 
-```python
+```
 
     tensor(1.3726e-06, device='cuda:0', grad_fn=<MseLossBackward>)
     Parameter containing:
@@ -1580,9 +1580,21 @@ Coming soon
 
 [Test Your Skills](MCQ/bank.pdf)
 
+## Competition 
+
+In the context of the Spring 2020 class offering, we have organized an in-class kaggle competition under the theme: **Android Malware Classification**. 
+
+[You can still have a late submission](https://www.kaggle.com/c/aub-cmps-392)
+
+### Winners solutions: 
+
+1. [Houdeib & Haidar](https://github.com/mhamadhdeib/Android-Malware-Classification)
+2. [Tachanka](https://drive.google.com/open?id=1_WvXiHlUHJe4-ZHdsvJuZagDzVdIwWVw)
+
+
 ## Contributions 
 
-If you would like to contribute, please contact the author at `mn115 at aub.edu.lb` 
+If you would like to contribute to this guide/handbook, please contact the author at `mn115 at aub.edu.lb` 
 
 
 ## Citation 
