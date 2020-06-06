@@ -1,10 +1,12 @@
-# Assignments 
+### Notes about Assignments 
 
 Mathematical assignments are written under Latex (and were developed under overleaf.com). We use the dlbook notation and files.
 
 Programming assignments are python notebook files (and were developed under colab.research.google.com)
 
-## dlbook_notation, quoting the deep learning book authors:  
+The file fish.csv for Assignment 1 is provided.
+
+### dlbook_notation, quoting the deep learning book authors:  
 
 > LaTeX files for the Deep Learning book notation
 
