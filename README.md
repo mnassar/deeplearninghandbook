@@ -1,11 +1,11 @@
 # The Deep Learning _Handbook_ 
 
-The Deep Learning _Handbook_ is a project in progress to help studying the [Deep Learning **book**](https://www.deeplearningbook.org/)] by by Goodfellow et al.
-The Deep Learning **book** is a rich and interesting book to introduce the booming topic of deep learning. However, many found the accompanying video lectures, slides and exercises not pedagogic enough for a fresh starter. 
+The Deep Learning _Handbook_ is a project in progress to help study the [Deep Learning **book**](https://www.deeplearningbook.org/) by Goodfellow et al.
+The Deep Learning **book** is a vibrant and precious resource to introduce the booming topic of deep learning. However, many found the accompanying video lectures, slides, and exercises not pedagogic enough for a fresh starter. 
 
 I used the dlbook for the class that I have taught in Spring 2019/2020 at the computer science department, American University of Beirut. 
 
-I would like to share my experience by publishing the slides and some of the assignments on this page. The project may be developed further into a full handbook accompanying the very interesting text of Goodfellow et al. 
+I would like to share my experience by publishing the slides and some of the assignments on this page. The project may be developed further into a full handbook accompanying the fascinating text of Goodfellow et al. 
 Currently, only part I and part II are covered. 
 
 ## Slides 
@@ -53,7 +53,7 @@ Notebook: [Numerical Computations](exercises/CMPS_392_Asst_3_Numerical_Computati
 #### Ex 1 
 
 
-```
+```python
 # Explain 
 import numpy as np
 a = np.array([0., np.finfo(np.float32).eps/2 ]).astype('float32')
@@ -68,7 +68,7 @@ print ( (a+1).argmax() )
 #### Ex 2
 
 
-```
+```python
 # Explain and propose a better solution to compute the variance of the numpy array x 
 import numpy.random as rand 
 x = np.array([10000 + rand.random() for i in range(10)]).astype('float32')
@@ -97,7 +97,7 @@ np.std(x)
 #### Ex 3
 
 
-```
+```python
 
 # Take learning rate = 0.18, 0.01, 0.1, 0.2 and explain what's happening when we perform gradient descent 
 # Why learning rate = 0.1 performs so nicely at the begining of the descent. Justify. 
@@ -161,7 +161,7 @@ plt.show()
 #### Ex 4
 
 
-```
+```python
 # explain what is going wrong, propose a fix 
 # n.b. you cannot change the hard coded numbers 
 
@@ -191,7 +191,7 @@ print (loss)
 #### Ex 5
 
 
-```
+```python
 # explain what is going wrong, propose a fix 
 
 def sigmoid(x): 
@@ -231,7 +231,7 @@ Notebook: [Machine Learning Basics](exercises/CMPS_392_Asst_3_Numerical_Computat
 ### Unsupervised Learning: K-Means
 
 
-```
+```python
 import random as rand 
 NB_PTS = 100 
 x1 = [rand.random() for i in range(NB_PTS)]
@@ -254,7 +254,7 @@ def avg(l):
 
 
 
-```
+```python
 # To plot the points 
  
 from bokeh.models import ColumnDataSource, LabelSet
@@ -273,7 +273,7 @@ output_notebook()
 ```
 
 
-```
+```python
 
 plots = [] 
 
@@ -311,7 +311,7 @@ show (gridplot(plots, ncols=3) )
 ### Supervised Learning: SVM
 
 
-```
+```python
 import random as rand 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -366,7 +366,7 @@ plt.show()
 ### Cross-Validation
 
 
-```
+```python
 from sklearn.model_selection import train_test_split
 from sklearn import datasets
 from sklearn import svm
@@ -428,7 +428,7 @@ Plot the three curves of Bias^2, variance and error. Estimate the best paramamet
 
 
 
-```
+```python
 import random as rand 
 import matplotlib.pyplot as plt
 
@@ -479,7 +479,7 @@ plt.show()
 
 
 
-```
+```python
 from sklearn.neighbors import NearestNeighbors
 import numpy as np
 
@@ -498,7 +498,7 @@ import numpy as np
 
 ## Citation 
 To cite this _handbook_, please use this bibtex entry:
-```
+```bibtex
 @book{nassar-2020,
     title={Deep Learning Handbook},
     author={Mohamed Nassar},
