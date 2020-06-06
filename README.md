@@ -22,6 +22,8 @@ Currently, only part I and part II are covered.
 
 * [Introduction](slides/01_intro.pdf)
 
+* Linear Algebra
+
 * [Probability](slides/03_prob.pdf)
 
 * [Numerical Analysis](slides/04_numerical.pdf)
@@ -48,7 +50,7 @@ Currently, only part I and part II are covered.
 
 [Linear Algebra Exercises](exercises/Assignment_1_CMPS_392.pdf)
 
-### *Assignment 2 - Numerical Computations*
+### *Assignment 2 - Probability*
 
 [Probability Exercises](exercises/Assignment_2_CMPS_392.pdf)
 
