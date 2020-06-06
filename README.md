@@ -1,11 +1,20 @@
 # The Deep Learning _Handbook_ 
 
 The Deep Learning _Handbook_ is a project in progress to help study the [Deep Learning **book**](https://www.deeplearningbook.org/) by Goodfellow et al.
-The Deep Learning **book** is a vibrant and precious resource to introduce the booming topic of deep learning. However, many found the accompanying video lectures, slides, and exercises not pedagogic enough for a fresh starter. 
 
-I used the dlbook for the class that I have taught in Spring 2019/2020 at the computer science department, American University of Beirut. 
+Goodfellow's masterpiece is a vibrant and precious resource to introduce the booming topic of deep learning. However, many found the accompanying video lectures, slides, and exercises not pedagogic enough for a fresh starter. 
 
-I would like to share my experience by publishing the slides and some of the assignments on this page. The project may be developed further into a full handbook accompanying the fascinating text of Goodfellow et al. 
+I used the **'dlbook'** for the class that I have taught in Spring 2019/2020 at the computer science department, American University of Beirut. 
+
+I would like to share my experience by publishing the slides and some of the assignments on this page. The project may be developed further into a full handbook and guide accompanying the fascinating text of Goodfellow et al. 
+
+The target audience comprises: 
+The target audience comprises: 
+* undergraduate and graduate students willing to know more about machine and deep learning, be able to read research papers or start a graduation project or a master thesis in the same context, 
+* developers and practitioners wanting to aspire a bit more math and philosophy, 
+* or mathematicians liking to have a bit more coding experience,
+* any other bored or sleepless person.
+
 Currently, only part I and part II are covered. 
 
 ## Slides 
