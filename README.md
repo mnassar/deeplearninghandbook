@@ -732,7 +732,7 @@ plt.plot(t, np.log(1+np.exp(t)), 'g-')
 #### (b) Similar to the exercise above (gradient-based learning), design a neural network that learns the 3 means of a gaussian mixture with 3 components 
 
 *   Assume $x$ is one dimensional
-*   $p(y|x)$ is a gaussian mixture of three components 
+*    {% raw %} $p(y|x)$  {% endraw %} is a gaussian mixture of three components 
 *   Assume that the three components are equally likely
 *   Assume all variances are 1 
 
