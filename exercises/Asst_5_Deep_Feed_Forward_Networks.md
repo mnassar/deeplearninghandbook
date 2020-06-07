@@ -78,7 +78,7 @@ plt.plot ([0,2],[0,1],'r-')
 
 
 
-![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_4_2.png)
+![png](images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_4_2.png)
 
 
 ### Ex I
@@ -205,7 +205,7 @@ dict_keys(['loss'])
 
 
 
-![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_10_1.png)
+![png](images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_10_1.png)
 
 
 
@@ -224,7 +224,7 @@ plt.plot(t, np.log(1+np.exp(t)), 'g-')
 
 
 
-![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_11_1.png)
+![png](images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_11_1.png)
 
 
 ### Ex 2
@@ -270,7 +270,7 @@ plt.legend()
 
 
 
-![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_16_1.png)
+![png](images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_16_1.png)
 
 
 Absolute value rectifier unit
@@ -296,7 +296,7 @@ plt.plot(t1, -t1, 'g-', t2, t2, 'b-')
 
 
 
-![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_18_1.png)
+![png](images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_18_1.png)
 
 
 ##Backprop
@@ -446,7 +446,7 @@ plt.legend()
 
 
 
-![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_23_1.png)
+![png](images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_23_1.png)
 
 
 #### Why softmax would work?
@@ -543,7 +543,7 @@ ax.set_title('$L_{softmax}(w,b)$  \n notice the slow descent / z-axis scale' )
 
 
 
-![png](exercises/images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_25_1.png)
+![png](images/CMPS_392_Asst_5_Deep_Feed_Forward_Networks_25_1.png)
 
 
 ### Ex 3

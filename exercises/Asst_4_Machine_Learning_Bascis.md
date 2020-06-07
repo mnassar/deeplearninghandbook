@@ -141,7 +141,7 @@ plt.show()
 ```
 
 
-![png](exercises/images/CMPS_392_Asst_4_Machine_Learning_Bascis_6_0.png)
+![png](images/CMPS_392_Asst_4_Machine_Learning_Bascis_6_0.png)
 
 
 ## Ex 3
@@ -263,7 +263,7 @@ plt.show()
 ```
 
 
-![png](exercises/images/CMPS_392_Asst_4_Machine_Learning_Bascis_11_0.png)
+![png](images/CMPS_392_Asst_4_Machine_Learning_Bascis_11_0.png)
 
 
 
@@ -278,7 +278,7 @@ import numpy as np
 ```
 
 
-![png](exercises/images/CMPS_392_Asst_4_Machine_Learning_Bascis_12_0.png)
+![png](images/CMPS_392_Asst_4_Machine_Learning_Bascis_12_0.png)
 
 
 

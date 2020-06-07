@@ -107,7 +107,7 @@ plt.show()
 
 
 
-![png](exercises/images/CMPS_392_Asst_3_Numerical_Computations_6_1.png)
+![png](images/CMPS_392_Asst_3_Numerical_Computations_6_1.png)
 
 
 #### Ex 4

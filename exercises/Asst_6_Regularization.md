@@ -63,7 +63,7 @@ print(y)
 ```
 
 
-![png](exercises/images/CMPS_392_Asst_6_Regularization_4_0.png)
+![png](images/CMPS_392_Asst_6_Regularization_4_0.png)
 
 
    
@@ -370,7 +370,7 @@ for x in advs:
 ```
 
 
-![png](exercises/images/CMPS_392_Asst_6_Regularization_11_0.png)
+![png](images/CMPS_392_Asst_6_Regularization_11_0.png)
 
 
     tensor([[True, True]], device='cuda:0')
@@ -380,7 +380,7 @@ for x in advs:
 
 
 
-![png](exercises/images/CMPS_392_Asst_6_Regularization_11_2.png)
+![png](images/CMPS_392_Asst_6_Regularization_11_2.png)
 
 
 ## Ex 3
@@ -535,7 +535,7 @@ plt.show()
 ```
 
 
-![png](exercises/images/CMPS_392_Asst_6_Regularization_17_0.png)
+![png](images/CMPS_392_Asst_6_Regularization_17_0.png)
 
 
 
