@@ -1,6 +1,6 @@
+## Assignment 4 - Machine Learning Basics
 
-
-## Ex 1
+### Ex 1
 ### Unsupervised Learning: K-Means
 
 
@@ -87,7 +87,7 @@ show (gridplot(plots, ncols=3) )
 # provide test code to verify this hypothesis
 ```
 
-## Ex 2
+### Ex 2
 ### Supervised Learning: SVM
 
 
@@ -144,7 +144,7 @@ plt.show()
 ![png](images/CMPS_392_Asst_4_Machine_Learning_Bascis_6_0.png)
 
 
-## Ex 3
+### Ex 3
 ### Cross-Validation
 
 
@@ -189,7 +189,7 @@ decision_function_shape='ovr', degree=3, gamma='scale', kernel='rbf',
 
 
 
-## Ex 4
+### Ex 4
 ### Bias and Variance for K-NN
 
 Consider K-nearest neighbor regression where the true $y$ is coming from a predefined function $f$ and an unavoidable noise $\epsilon$ of mean $0$ and variance $\sigma$

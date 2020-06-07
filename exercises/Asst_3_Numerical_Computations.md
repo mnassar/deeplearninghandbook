@@ -1,5 +1,5 @@
-
-#### Ex 1
+## Assignment 3 - Numerical Computations
+### Ex 1
 
 
 ```python
@@ -14,7 +14,7 @@ print ( (a+1).argmax() )
     0
 
 
-#### Ex 2
+### Ex 2
 
 
 ```python
@@ -45,7 +45,7 @@ np.std(x)
 
 
 
-#### Ex 3
+### Ex 3
 
 
 ```python
@@ -110,7 +110,7 @@ plt.show()
 ![png](images/CMPS_392_Asst_3_Numerical_Computations_6_1.png)
 
 
-#### Ex 4
+### Ex 4
 
 
 ```python
@@ -142,7 +142,7 @@ print (loss)
       
 
 
-#### Ex 5
+### Ex 5
 
 
 ```python
@@ -173,7 +173,7 @@ print (loss)
       import sys
 
 
-#### Ex 6
+### Ex 6
 
 Propose an example of your choice to show why it is worth keeping an eye on numerical computations issues when implementing machine learning algorithms
 

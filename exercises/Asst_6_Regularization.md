@@ -1,6 +1,8 @@
+## Assignment 6: Regularization
 
-## Ex 1
+### Ex 1
 ### Data Augmentation
+
 In this experiment, we aim to classify grocery images. In the same time, it is a first PyTorch tutorial, maybe you will like it even more than TensorFlow or Keras!
 
 We also will experiment with transfer learning since we will use a pre-trained network and only change its output layer!
@@ -289,8 +291,9 @@ model.train();
     Test loss: 0.085.. Test accuracy: 0.972
 
 
-## Ex 2
+### Ex 2
 ### Adversarial training
+
 In this experiment, we generate adversarial images for the grocery dataset and the model that we just learned using a library called foolbox https://github.com/bethgelab/foolbox
 
 Augmenting the original dataset by these adversarial samples helps the regularization of the training model. Use the following skeleton code to generate adversarial samples, add them to the original dataset and comment on your findings in terms of training and testing accuracy.
@@ -459,8 +462,9 @@ print (model.weight)
     tensor([[0.5496, 0.4467, 0.0899]], device='cuda:0', requires_grad=True)
 
 
-## Ex 4
+### Ex 4
 ### L2 regularization vs. L1 regularization
+
 (a) Based on the data provided below, design an experiment to show the difference between the solutions to three **logistic regression** problems:  
 
 
