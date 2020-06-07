@@ -126,3 +126,10 @@ To cite this _handbook_, please use this bibtex entry:
     year={2020}
 }
 ```
+
+## Author
+
+[scholar](https://scholar.google.com/citations?user=GrvxLaUAAAAJ)
+[researchgate](https://www.researchgate.net/profile/Mohamed_Nassar20)
+
+
