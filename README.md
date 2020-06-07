@@ -57,23 +57,27 @@ Currently, only part I and part II are covered.
 ### *Assignment 3 - Numerical Computations*
 
 [Numerical Computations Exercises](exercises/Asst_3_Numerical_Computations.md)
+
 [Notebook](exercises/CMPS_392_Asst_3_Numerical_Computations.ipynb)
 
 ### *Assignment 4 - Machine Learning Basics*
 
 [Machine Learning Basics Exercises](exercises/Asst_4_Machine_Learning_Bascis.md)
+
 [Notebook](exercises/CMPS_392_Asst_4_Machine_Learning_Bascis.ipynb)
 
 
 ### *Assignment 5 - Multi-layer Perceptrons*
 
 [Multi-layer perceptrons](exercises/Asst_5_Deep_Feed_Forward_Networks.md)
+
 [Notebook](exercises/CMPS_392_Asst_5_Deep_Feed_Forward_Networks.ipynb)
 
 
 ### *Assignment 6*: Regularization
 
 [Regularization](exercises/Asst_6_Regularization.md)
+
 [Notebook](exercises/CMPS_392_Asst_6_Regularization.ipynb)
 
 
@@ -116,12 +120,16 @@ To cite this _handbook_, please use this bibtex entry:
 @book{nassar-dlh-2020,
     title={Deep Learning Handbook},
     author={Mohamed Nassar},
-   
-publisher={\url{https://zenodo.org/}},
-   
-doi={10.5281/zenodo.3881558},
-   
-note={\url{http://mnassar.github.io/deeplearninghandbook}},
+    publisher={\url{https://zenodo.org/}},
+    doi={10.5281/zenodo.3881558},
+    note={\url{http://mnassar.github.io/deeplearninghandbook}},
     year={2020}
 }
 ```
+
+## Author
+
+[scholar](https://scholar.google.com/citations?user=GrvxLaUAAAAJ)
+[researchgate](https://www.researchgate.net/profile/Mohamed_Nassar20)
+
+
