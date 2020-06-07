@@ -120,12 +120,9 @@ To cite this _handbook_, please use this bibtex entry:
 @book{nassar-dlh-2020,
     title={Deep Learning Handbook},
     author={Mohamed Nassar},
-   
-publisher={\url{https://zenodo.org/}},
-   
-doi={10.5281/zenodo.3881558},
-   
-note={\url{http://mnassar.github.io/deeplearninghandbook}},
+    publisher={\url{https://zenodo.org/}},
+    doi={10.5281/zenodo.3881558},
+    note={\url{http://mnassar.github.io/deeplearninghandbook}},
     year={2020}
 }
 ```
