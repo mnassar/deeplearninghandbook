@@ -22,7 +22,7 @@ Currently, only part I and part II are covered.
 
 * [Introduction](slides/01_intro.pdf)
 
-* Linear Algebra
+* [Linear Algebra](slides/02_linear_algebra.pdf)
 
 * [Probability](slides/03_prob.pdf)
 
