@@ -1,6 +1,6 @@
-# The Deep Learning _Handbook_
+# Deep Learning _Handbook_
 
-The Deep Learning _Handbook_ is a project in progress to help study the [Deep Learning **book**](https://www.deeplearningbook.org/) by Goodfellow et al.
+The Deep Learning _Handbook_ is a project in progress to help study the [**Deep Learning book**](https://www.deeplearningbook.org/) by Goodfellow et al.
 
 Goodfellow's masterpiece is a vibrant and precious resource to introduce the booming topic of deep learning. However, many found the accompanying video lectures, slides, and exercises not pedagogic enough for a fresh starter.
 
