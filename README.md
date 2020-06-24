@@ -109,7 +109,7 @@ In the context of the Spring 2020 class offering, we have organized an in-class 
 2. [Tachanka](https://drive.google.com/open?id=1_WvXiHlUHJe4-ZHdsvJuZagDzVdIwWVw)
 
 ## Anonymous Student testimony 
-> I think this is one of the best graduate courses I've taken during my Masters degree. The special thing about this course is the parallelism between the theoretical parts and the practical assignments that we were solving. So, it developed both my theoretical and practical skills. Also, making the project as a Kaggle competition simulated me to work more on it and to compete with other teams in my class.
+> I think this is one of the best graduate courses I've taken during my Master's degree. The special thing about this course is the parallelism between the theoretical parts and the practical assignments that we were solving. So, it developed both my theoretical and practical skills. Also, making the project as a Kaggle competition stimulated me to work more on it and to compete with other teams in my class.
 
 ## Contributions
 
