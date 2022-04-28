@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q3VJS7SRTL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q3VJS7SRTL');
+</script>
+
 # Deep Learning _Handbook_
 
 The Deep Learning _Handbook_ is a project in progress to help study the [**Deep Learning book**](https://www.deeplearningbook.org/) by Goodfellow et al.
